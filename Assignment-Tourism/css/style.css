@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.text{
+    color: honeydew;
+    text-decoration-color: honeydew;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0; // remove the gap so it doesn't close
+ }
+
+.nav-link-modification{
+    border: none;
+}
+
+Thiruvananthapuram
+Kollam
+Alappuzha
+Pathanamthitta
+Kottayam
+Idukki
+Ernakulam
+Thrissur
+Palakkad
+Malappuram
+Kozhikode
+Wayanadu
+Kannur
+Kasaragod
